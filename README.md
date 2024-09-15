@@ -39,18 +39,7 @@ The dataset used for this project contains information on used cars with the fol
 You can find the dataset at `car_price_data.csv` in the project folder.
 
 ## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/car-price-prediction.git
-   cd car-price-prediction
-   ```
-
-2. Install the required Python libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Place the dataset (`car_price_data.csv`) in the `data/` directory.
+Use the dataset (`car_price_data.csv`).
 
 
 ## Model Training and Evaluation
